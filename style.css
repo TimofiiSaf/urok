@@ -1,0 +1,6 @@
+.box-parent-flex {
+  padding: 5px;
+  margin-bottom: 20px;
+  background-color: rgb(158, 245, 255);
+  outline: 2px solid tomato;
+}
